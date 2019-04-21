@@ -1,0 +1,316 @@
+{
+    "ErrorCode": 0,
+    "ErrorMessage": "",
+    "RData": [
+        {
+            "Count": 14,
+            "DateTime": "2019-03-01",
+            "Day": 1,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "fri"
+        },
+        {
+            "Count": 17,
+            "DateTime": "2019-03-02",
+            "Day": 2,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "sat"
+        },
+        {
+            "Count": 27,
+            "DateTime": "2019-03-03",
+            "Day": 3,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "sun"
+        },
+        {
+            "Count": 36,
+            "DateTime": "2019-03-04",
+            "Day": 4,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "mon"
+        },
+        {
+            "Count": 15,
+            "DateTime": "2019-03-05",
+            "Day": 5,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "tue"
+        },
+        {
+            "Count": 7,
+            "DateTime": "2019-03-06",
+            "Day": 6,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 2,
+            "Selected": 0,
+            "Week": "wed"
+        },
+        {
+            "Count": 23,
+            "DateTime": "2019-03-07",
+            "Day": 7,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "thu"
+        },
+        {
+            "Count": 30,
+            "DateTime": "2019-03-08",
+            "Day": 8,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "fri"
+        },
+        {
+            "Count": 15,
+            "DateTime": "2019-03-09",
+            "Day": 9,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "sat"
+        },
+        {
+            "Count": 27,
+            "DateTime": "2019-03-10",
+            "Day": 10,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "sun"
+        },
+        {
+            "Count": 25,
+            "DateTime": "2019-03-11",
+            "Day": 11,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "mon"
+        },
+        {
+            "Count": 29,
+            "DateTime": "2019-03-12",
+            "Day": 12,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "tue"
+        },
+        {
+            "Count": 22,
+            "DateTime": "2019-03-13",
+            "Day": 13,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "wed"
+        },
+        {
+            "Count": 10,
+            "DateTime": "2019-03-14",
+            "Day": 14,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "thu"
+        },
+        {
+            "Count": 23,
+            "DateTime": "2019-03-15",
+            "Day": 15,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "fri"
+        },
+        {
+            "Count": 16,
+            "DateTime": "2019-03-16",
+            "Day": 16,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "sat"
+        },
+        {
+            "Count": 24,
+            "DateTime": "2019-03-17",
+            "Day": 17,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "sun"
+        },
+        {
+            "Count": 21,
+            "DateTime": "2019-03-18",
+            "Day": 18,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "mon"
+        },
+        {
+            "Count": 22,
+            "DateTime": "2019-03-19",
+            "Day": 19,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "tue"
+        },
+        {
+            "Count": 35,
+            "DateTime": "2019-03-20",
+            "Day": 20,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 0,
+            "Week": "wed"
+        },
+        {
+            "Count": 12,
+            "DateTime": "2019-03-21",
+            "Day": 21,
+            "Enabled": 1,
+            "MaxCount": 36,
+            "MaxGrade": 3,
+            "Selected": 1,
+            "Week": "thu"
+        },
+        {
+            "Count": 0,
+            "DateTime": "2019-03-22",
+            "Day": 22,
+            "Enabled": 0,
+            "MaxCount": 36,
+            "MaxGrade": 0,
+            "Selected": 0,
+            "Week": "fri"
+        },
+        {
+            "Count": 0,
+            "DateTime": "2019-03-23",
+            "Day": 23,
+            "Enabled": 0,
+            "MaxCount": 36,
+            "MaxGrade": 0,
+            "Selected": 0,
+            "Week": "sat"
+        },
+        {
+            "Count": 0,
+            "DateTime": "2019-03-24",
+            "Day": 24,
+            "Enabled": 0,
+            "MaxCount": 36,
+            "MaxGrade": 0,
+            "Selected": 0,
+            "Week": "sun"
+        },
+        {
+            "Count": 0,
+            "DateTime": "2019-03-25",
+            "Day": 25,
+            "Enabled": 0,
+            "MaxCount": 36,
+            "MaxGrade": 0,
+            "Selected": 0,
+            "Week": "mon"
+        },
+        {
+            "Count": 0,
+            "DateTime": "2019-03-26",
+            "Day": 26,
+            "Enabled": 0,
+            "MaxCount": 36,
+            "MaxGrade": 0,
+            "Selected": 0,
+            "Week": "tue"
+        },
+        {
+            "Count": 0,
+            "DateTime": "2019-03-27",
+            "Day": 27,
+            "Enabled": 0,
+            "MaxCount": 36,
+            "MaxGrade": 0,
+            "Selected": 0,
+            "Week": "wed"
+        },
+        {
+            "Count": 0,
+            "DateTime": "2019-03-28",
+            "Day": 28,
+            "Enabled": 0,
+            "MaxCount": 36,
+            "MaxGrade": 0,
+            "Selected": 0,
+            "Week": "thu"
+        },
+        {
+            "Count": 0,
+            "DateTime": "2019-03-29",
+            "Day": 29,
+            "Enabled": 0,
+            "MaxCount": 36,
+            "MaxGrade": 0,
+            "Selected": 0,
+            "Week": "fri"
+        },
+        {
+            "Count": 0,
+            "DateTime": "2019-03-30",
+            "Day": 30,
+            "Enabled": 0,
+            "MaxCount": 36,
+            "MaxGrade": 0,
+            "Selected": 0,
+            "Week": "sat"
+        },
+        {
+            "Count": 0,
+            "DateTime": "2019-03-31",
+            "Day": 31,
+            "Enabled": 0,
+            "MaxCount": 36,
+            "MaxGrade": 0,
+            "Selected": 0,
+            "Week": "sun"
+        }
+    ]
+}
